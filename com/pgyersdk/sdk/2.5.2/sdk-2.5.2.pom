@@ -4,7 +4,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.pgyersdk</groupId>
   <artifactId>sdk</artifactId>
-  <version>2.5.1</version>
+  <version>2.5.2</version>
   <packaging>aar</packaging>
   <dependencies>
     <dependency>
